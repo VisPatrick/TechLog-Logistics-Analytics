@@ -1,0 +1,9 @@
+﻿id_estoque,nome_produto,quantidade_atual,estoque_minimo,localizacao,ultima_movimentacao,status_estoque
+1,Notebook Dell Inspiron,175,120,A1-01,2026-06-16 16:53:07,NORMAL
+2,Notebook Lenovo IdeaPad,85,80,A1-02,2026-06-16 16:53:07,ATENÇÃO
+3,Mouse Gamer RGB,891,300,B1-01,2026-06-16 16:53:07,NORMAL
+4,Teclado Mecânico,120,100,B1-02,2026-06-16 16:53:07,ATENÇÃO
+5,Monitor 24 Polegadas,95,90,C1-01,2026-06-16 16:53:07,ATENÇÃO
+6,HD SSD 1TB,150,130,C1-02,2026-06-16 16:53:07,ATENÇÃO
+7,Switch 24 Portas,528,400,D1-01,2026-06-16 16:53:07,NORMAL
+8,Roteador Empresarial,75,80,D1-02,2026-06-16 16:53:07,CRÍTICO

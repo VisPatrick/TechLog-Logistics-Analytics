@@ -1,0 +1,1 @@
+SELECT * FROM techlog_logistica.vw_avarias;
